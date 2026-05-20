@@ -35,33 +35,43 @@ Risk Domain
 Score
 Key Factor
 Access Controls & IAM
+
 9/10
 FedRAMP High 3PAO-validated controls
 Data Encryption
+
 9/10
 FIPS 140-2 validated required by FedRAMP
 Vulnerability Management
+
 9/10
 Active pen testing updated May 19, 2026
 Data Residency & Sovereignty
+
 8/10
 Hyperforce US region available must be configured
 Incident Response
+
 8/10
 NIST 800-61 compliant per FedRAMP SLAs not public
 Business Continuity & DR
+
 8/10
 ISO 22301 certified RTO/RPO requires contract
 Privacy & Data Protection
+
 8/10
 ISO 27018, GDPR, BCRs in place
 Third-Party / Supply Chain
+
 7/10
 Extensive sub-processor ecosystem - review required
 Availability & SLA
+
 6/10
 SLA percentages not publicly disclosed
 CMMC 2.0 Alignment
+
 6/10
 Not explicitly confirmed - requires clarification
 
